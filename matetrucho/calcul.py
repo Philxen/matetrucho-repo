@@ -7,7 +7,7 @@ class Calculateur:
         return a + b
 
     def additionner2(self, a, b):
-        """Méthode 1 : Une addition simple"""
+        """Méthode 2 : Une addition complexe"""
         return a + 5*b
     
     def saluer(self):
